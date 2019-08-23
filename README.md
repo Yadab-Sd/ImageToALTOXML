@@ -1,5 +1,5 @@
 # ImageToALTOXML
-Convert Multiple Images to Multiple ALTo XML Files
+Convert Multiple Images to Multiple ALTo XML Files, Text files, JSON File
 
 Requirements:
 ============
