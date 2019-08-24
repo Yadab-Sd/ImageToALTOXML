@@ -1,0 +1,79 @@
+SACHIN VASANTRAO DUSANE
+
+ 
+   
+
+Contact Details: +91-9987718627 / 9423916430
+sachin.dusane25@gmai
+
+    
+
+ 
+
+Profile Summary:
+* 8+ years of IT experience with Project lead, development of applications in SAP.
+
+* SAP implementations, roll-outs, support, upgrades included diversified industries like Infrastructure,
+Construction & Manufacturing.
+
++ A distinct team player to provide quality solutions with analytical, problem solving & organizational
+abilities.
+
+* Demonstrate active participation in professional services team forums and contribute and participate in
+knowledge sharing.
+
+SAP ABAP Experience
+Data Dictionary (Tables, views, Search Helps, Lock Objects, Indexes, etc.)
+
+Reporting (ALV, Classical, Interactive)
+
+Data uploading Techniques using BDC’s and BAPI’s
+
+Module Pool Programming
+
+Enhancement Techniques User Exits, Customer Exits, BADI’s, Enhancement Framework.
+Printing Jobs via SAP Scripts, Smart Forms, ADOBE forms static and offline.
+Code optimization and performance tuning.
+
+Extensively worked on RFC’s.
+
+SAP Note analysis & Implementation.
+
+BTE Implementation.
+
+ABAP OOPs & OOPs SALV.
+
+Consume REST API and developed REST API in JSON and XML File format.
+
+SAP Workflow
+¥ Workflow programming and configuration.
+
+SNK RK KKK KR SKSS
+
+v Business Object Builder: defining and implementing your own BOR objects
+¥ Data flow and new containers
+v Debugging
+
+SAP Functional Experience:
+Good understanding and hands on experience of various business processes under:
+
+v REPX, FI, Sales & Distribution, and Material Management.
+NON-SAP IT Experience:
+Worked on below technologies apart from SAP
+
+v Java Script and form Calc
+
+SAP Work Experience:
+* Currently Working in Highbar Technocrat Limited (HCC group of Company), from 26 Nov 2012 to
+
+Till Date.
+
+e Worked as SAP Technical Consultant Cyber Tech System and Software Ltd Thane, from 21°t Jan 2011
+to 16t" Nov 2012.
+
+* Worked as SAP Technical Consultant for Sudal Industries Ltd from 1% Dec 2009 to 10" Jan 2011.
+
+* Worked as SAP Consultant for Jayshree Die-casting Pvt Ltd from 2"¢ Feb 2008 to 31% July 2008.
+
+* Worked ad SAP Consultant for Tech Soft Solutions service Pvt Ltd from 16 Sept 2006 to 28" Dec 2007.
+

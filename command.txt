@@ -1,0 +1,7 @@
+python alto.py --input_dir input/ --output_dir output/
+
+or,
+
+
+python alto.py --input_dir your_images_path_with_slash --output_dir your_output_path_with_slash
+

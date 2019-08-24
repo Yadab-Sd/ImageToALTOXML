@@ -1,0 +1,86 @@
+SACHIN VASANTRAO DUSANE
+   
+Contact Details: +91-9987718627 / 9423916430
+sachin.dusane25@gmai
+    
+Profile Summary:
+* 8+ years of IT experience with Project lead, development of applications in SAP.
+* SAP implementations, roll-outs, support, upgrades included diversified industries like Infrastructure,
+Construction & Manufacturing.
++ A distinct team player to provide quality solutions with analytical, problem solving & organizational
+abilities.
+* Demonstrate active participation in professional services team forums and contribute and participate in
+knowledge sharing.
+SAP ABAP Experience
+Data Dictionary (Tables, views, Search Helps, Lock Objects, Indexes, etc.)
+Reporting (ALV, Classical, Interactive)
+Data uploading Techniques using BDC’s and BAPI’s
+Module Pool Programming
+Enhancement Techniques User Exits, Customer Exits, BADI’s, Enhancement Framework.
+Printing Jobs via SAP Scripts, Smart Forms, ADOBE forms static and offline.
+Code optimization and performance tuning.
+Extensively worked on RFC’s.
+SAP Note analysis & Implementation.
+BTE Implementation.
+ABAP OOPs & OOPs SALV.
+Consume REST API and developed REST API in JSON and XML File format.
+SAP Workflow
+¥ Workflow programming and configuration.
+SNK RK KKK KR SKSS
+v Business Object Builder: defining and implementing your own BOR objects
+¥ Data flow and new containers
+v Debugging
+SAP Functional Experience:
+Good understanding and hands on experience of various business processes under:
+v REPX, FI, Sales & Distribution, and Material Management.
+NON-SAP IT Experience:
+Worked on below technologies apart from SAP
+v Java Script and form Calc
+SAP Work Experience:
+* Currently Working in Highbar Technocrat Limited (HCC group of Company), from 26 Nov 2012 to
+Till Date.
+e Worked as SAP Technical Consultant Cyber Tech System and Software Ltd Thane, from 21°t Jan 2011
+to 16t" Nov 2012.
+* Worked as SAP Technical Consultant for Sudal Industries Ltd from 1% Dec 2009 to 10" Jan 2011.
+* Worked as SAP Consultant for Jayshree Die-casting Pvt Ltd from 2"¢ Feb 2008 to 31% July 2008.
+* Worked ad SAP Consultant for Tech Soft Solutions service Pvt Ltd from 16 Sept 2006 to 28" Dec 2007.
+
+billing document that system take billing date so using this exit to change the billing document date to
+Current date and USEREXIT_NUMBER_RANGE_INV_DATE when user billing document in dates between
+25th to 31th date in any month then system raise error message.
+> MV4S5AFZZ include in that exit name is USEREXIT_SAVE_DOCUMENT when creating sales order for
+customer is confirm the unit, while creating sales order with same material system give an error
+message and Quotation should be block if any change in Quotation (VA22) in that Form
+USREXIT_SAVE_DOCUMNET_PREPARE.
+» Adding custom tab in PO using BADI ME_GUI_PO_CUST & ME_PROCESS_PO_CUST.
+> User exists COZFO001 & COZF0002 for changing the document type of IW31, IW32, IW21, 1W22,
+Iw28.
+>» Batch Characteristics Calculation using Enhancement ‘MBCFCO04' and function Exit name is -:
+'EXIT_SAPMM07M_004’ in ZXMBCU04.
+>» BADI for Adding New Custom Tab Delivery using ‘SHP_TAB_CUST_ITEM’.
+>» Enhancement for adding Z screen for Transporter Details in MIGO header Tab data using BADI
+‘MB_MIGO_BADI’ and validation.
+>» Batch Characteristics Calculation using Enhancement ‘MBCFCO04’ and function Exit name is -:
+'EXIT_SAPMMO7M_004’ in ZXMBCU04.
+>» User exit for ZXCOFU24 and ZXCOFU23 CO11N t.code in that screen adding Z-Fields in standard
+Screen.
+» User exit for MV45AFZZ Creating sales order as per that order purchase order is created.
+>» User Exit MBCF0002 for checking the Confirmation Quantity with MIGO or MB31 Quantity.
+>» User Exit for PPCO0007 for checking sales order UOM same Production Order UOM.
+>» BADI for Adding New Custom Tab Delivery using ‘SHP_TAB_CUST_ITEM’.
+>» Request for Inspection ADOBE print form.
+>» Payment Advice ADOBE form.
+>» Cheque Print Smart forms.
+» Material Issue voucher print ADOBE form.
+> Offline ADOBE form for Goods Issue.
+> Offline ADOBE form for Vendor Registration Form.
+> Offline Interactive ADOBE form for Leave and OD forms.
+> Payment Advice report.
+> Employee advance ageing report.
+>» Vendor ageing Bill wise report.
+» Inquiries Quotation weekly project review register.
+» Sales Delivery and Stock Overview Report.
+» Module Pool screen for Transit Master Details.
+>» Demand Letter smart forms is generated as per payment schedule and billing plan assigned to the
+customer in the sales order.
+

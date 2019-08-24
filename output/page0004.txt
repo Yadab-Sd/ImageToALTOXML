@@ -1,0 +1,65 @@
+billing document that system take billing date so using this exit to change the billing document date to
+Current date and USEREXIT_NUMBER_RANGE_INV_DATE when user billing document in dates between
+25th to 31th date in any month then system raise error message.
+
+> MV4S5AFZZ include in that exit name is USEREXIT_SAVE_DOCUMENT when creating sales order for
+customer is confirm the unit, while creating sales order with same material system give an error
+message and Quotation should be block if any change in Quotation (VA22) in that Form
+USREXIT_SAVE_DOCUMNET_PREPARE.
+
+» Adding custom tab in PO using BADI ME_GUI_PO_CUST & ME_PROCESS_PO_CUST.
+
+> User exists COZFO001 & COZF0002 for changing the document type of IW31, IW32, IW21, 1W22,
+Iw28.
+
+>» Batch Characteristics Calculation using Enhancement ‘MBCFCO04' and function Exit name is -:
+'EXIT_SAPMM07M_004’ in ZXMBCU04.
+
+>» BADI for Adding New Custom Tab Delivery using ‘SHP_TAB_CUST_ITEM’.
+
+>» Enhancement for adding Z screen for Transporter Details in MIGO header Tab data using BADI
+‘MB_MIGO_BADI’ and validation.
+
+>» Batch Characteristics Calculation using Enhancement ‘MBCFCO04’ and function Exit name is -:
+'EXIT_SAPMMO7M_004’ in ZXMBCU04.
+
+>» User exit for ZXCOFU24 and ZXCOFU23 CO11N t.code in that screen adding Z-Fields in standard
+
+Screen.
+
+» User exit for MV45AFZZ Creating sales order as per that order purchase order is created.
+>» User Exit MBCF0002 for checking the Confirmation Quantity with MIGO or MB31 Quantity.
+>» User Exit for PPCO0007 for checking sales order UOM same Production Order UOM.
+
+>» BADI for Adding New Custom Tab Delivery using ‘SHP_TAB_CUST_ITEM’.
+
+>» Request for Inspection ADOBE print form.
+
+>» Payment Advice ADOBE form.
+
+>» Cheque Print Smart forms.
+
+» Material Issue voucher print ADOBE form.
+
+> Offline ADOBE form for Goods Issue.
+
+> Offline ADOBE form for Vendor Registration Form.
+
+> Offline Interactive ADOBE form for Leave and OD forms.
+
+> Payment Advice report.
+
+> Employee advance ageing report.
+
+>» Vendor ageing Bill wise report.
+
+» Inquiries Quotation weekly project review register.
+
+» Sales Delivery and Stock Overview Report.
+
+» Module Pool screen for Transit Master Details.
+
+>» Demand Letter smart forms is generated as per payment schedule and billing plan assigned to the
+
+customer in the sales order.
+

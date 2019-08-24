@@ -1,0 +1,39 @@
+if( filetolist[i] != "" and filetolist[i] != " " and i <= 3):#loop 1 to 3
+          data['PERSONAL DETAILS'][i] = filetolist[i]
+          i += 1
+      elif (filetolist[i] != "" and filetolist[i] != " " and i <= 7): #loop 4 to 7
+          if (i != 4):
+              data['JOB OBJECTIVE'][i] = filetolist[i]
+          i += 1
+      elif( filetolist[i] != "" and filetolist[i] != " " and i <= 48 ):#loop 8 to 48
+          if ( i != 8 ):
+              data['PROFILE SUMMERY'][i] = filetolist[i]
+          i += 1
+      elif( filetolist[i] != "" and filetolist[i] != " " and i <= 131 ): #loop 49 to 91
+          if ( i != 49 ):
+              if (  i >= 50 and i <= 84 ):
+                  sub = 1
+                  if (i != 55):
+                      if (i < 55):
+                          data['ORGANIZATIONAL EXPERIENCE'][sub][i] = filetolist[i]
+                      else:
+                          data['ORGANIZATIONAL EXPERIENCE'][sub]['RESPONSIBILITIES'][i] = filetolist[i]
+              elif ( i >= 85 and i <= 112 ):
+                  sub = 2
+                  if (i != 93):
+                      if (i < 93):
+                          data['ORGANIZATIONAL EXPERIENCE'][sub][i] = filetolist[i]
+                      else:
+                          data['ORGANIZATIONAL EXPERIENCE'][sub]['RESPONSIBILITIES'][i] = filetolist[i]
+              elif ( i >= 113 and i <= 131 ):
+                  sub = 3
+                  if (i != 117):
+                      if (i < 117):
+                          data['ORGANIZATIONAL EXPERIENCE'][sub][i] = filetolist[i]
+                      else:
+                          data['ORGANIZATIONAL EXPERIENCE'][sub]['RESPONSIBILITIES'][i] = filetolist[i]
+          i += 1
+      elif( filetolist[i] != "" and filetolist[i] != " " ):
+          if (i != 92):
+              data['OTHERS'][i] = filetolist[i]
+          i += 1
